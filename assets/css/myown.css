@@ -12,6 +12,7 @@
 
 .full-proj{
     display: flex;
+    /* flex-direction: wrap; */
     margin-bottom: 10%;
     width: 100%;
 }
